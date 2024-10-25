@@ -8,8 +8,4 @@ const createHotel = async (data) => {
     }
 }
 
-
-  
-
-
 export  { createHotel };

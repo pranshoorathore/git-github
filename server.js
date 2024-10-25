@@ -24,13 +24,3 @@ app.listen(port, ()=>{
 
 
 
-//  {
-//   "name" : "Taj Hotel",
-//   "address" : "Mumbai, Maharashtra",
-//   "contact" : "7648976298",
-//   "rent" : "25000",
-//   "images" : ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeWkywCnTv9jgWQ3-zfezXagosZiAvy16Dhve0aUtZ4j7zHsZyuoT6MUs&s","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLiLYXJiL0-iHkqLB-vfVyB0SPq17-yKlp4A&s","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5hhL3hIFdonH47yv1sphBg_caf8cZubIfkA&s"]
-// }
-
-
-
