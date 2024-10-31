@@ -1,6 +1,4 @@
 import { Schema, model } from "mongoose";
-
-<<<<<<< HEAD
 const propertySchema = new Schema({
     title: {
         type: String,
@@ -73,32 +71,4 @@ const propertySchema = new Schema({
 const Property = new model('Property', propertySchema);
 
 export default Property;
-=======
-const hotelSchema = new Schema({
-    name: {
-        type: String,
-        required: true
-    },
-    address: {
-        type: String,
-        required: true
-    },
-    contact: {
-        type: Number,
-        required: true
-    },
-    rent: {
-        type: Number,
-        required: true
-    },
-    images: [{
-        type: String,
-        required: true
-    }]
-});
-
-const Hotel = new model('Hotel', hotelSchema);
-
-export default Hotel;
->>>>>>> 2fe8df263773ed2eff735ecac6f4d2d760b5e206
 
